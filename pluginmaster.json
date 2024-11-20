@@ -1,23 +1,20 @@
 [
-    {
-        "Author": "Team Sloth",
-        "Name": "WrathCombo",
-        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
-        "Description": "Private repo.",
-        "Changelog": "idk",
-        "InternalName": "WrathCombo",
-        "AssemblyVersion": "9.0.0.0",
-        "RepoUrl": "https://github.com/Nik-Potokar/WrathCombo",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 11,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/Nik-Potokar/XIVSlothCombo/main/res/plugin/xivslothcombo.png",
-        "DownloadLinkInstall": "https://github.com/Nik-Potokar/DolomudPlogons/raw/main/plugins/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Nik-Potokar/DolomudPlogons/raw/main/plugins/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Nik-Potokar/DolomudPlogons/raw/main/plugins/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdated": "1728914799"
-    }
+  {
+    "Author": "Team Wrath",
+    "Name": "Wrath Combo",
+    "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+    "Description": "Private repo.",
+    "Tags": [],
+    "InternalName": "WrathCombo",
+    "RepoUrl": "https://github.com/NikPotokar/WrathCombo",
+    "DownloadCount": 4170,
+    "LastUpdate": 1732043302387,
+    "DownloadLinkInstall": "https://github.com/Nik-Potokar/DolomudPlogons/raw/main/plugins/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Nik-Potokar/DolomudPlogons/raw/main/plugins/latest.zip",
+    "AssemblyVersion": "1.0.0.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "11",
+    "Changelog": "Please check the project's GitHub or Discord for a full changelog.",
+    "IconUrl": "https://raw.githubusercontent.com/Nik-Potokar/XIVSlothCombo/main/res/plugin/xivslothcombo.png"
+  },
 ]
