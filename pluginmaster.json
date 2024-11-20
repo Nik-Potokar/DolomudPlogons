@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "Author": "Team Sloth",
+        "Name": "XIVSlothCombo",
+        "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
+        "Description": "Private repo.",
+        "Changelog": "idk",
+        "InternalName": "XIVSlothCombo",
+        "AssemblyVersion": "9.0.0.0",
+        "RepoUrl": "https://github.com/Nik-Potokar/WrathCombo",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 11,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/Nik-Potokar/XIVSlothCombo/main/res/plugin/xivslothcombo.png",
+        "DownloadLinkInstall": "https://github.com/Nik-Potokar/DolomudPlogons/raw/main/plugins/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Nik-Potokar/DolomudPlogons/raw/main/plugins/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Nik-Potokar/DolomudPlogons/raw/main/plugins/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1728914799"
+    }
+]
