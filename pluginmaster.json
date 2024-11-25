@@ -1,12 +1,12 @@
 [
     {
-        "Author": "Team Sloth",
+        "Author": "Team Sloth - Aki's Version",
         "Name": "WrathCombo",
         "Punchline": "Condenses combos and mutually exclusive abilities onto a single button - and then some.",
         "Description": "THIS IS A PRIVATE REPO AND SHOULD NOT BE USED UNLESS YOU HAVE BEEN LINKED TO IT - FOR FRIENDS & FAMILY ONLY!!!.",
         "Changelog": "Private Repo.",
         "InternalName": "WrathCombo",
-        "AssemblyVersion": "69.720.420.0002",
+        "AssemblyVersion": "0.0.0.3",
         "RepoUrl": "https://github.com/Nik-Potokar/WrathCombo",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 11,
@@ -18,6 +18,6 @@
         "DownloadLinkTesting": "https://github.com/Nik-Potokar/DolomudPlogons/raw/refs/heads/main/plugins/WrathCombo/Latest.zip",
         "DownloadLinkUpdate": "https://github.com/Nik-Potokar/DolomudPlogons/raw/refs/heads/main/plugins/WrathCombo/Latest.zip",
         "DownloadCount": 0,
-        "LastUpdated": "1732192299"
+        "LastUpdated": "1932192299"
     }
 ]
